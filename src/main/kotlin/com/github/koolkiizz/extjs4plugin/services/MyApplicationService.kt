@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.koolkiizz.extjs4plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.koolkiizz.extjs4plugin.MyBundle
 
 class MyApplicationService {
 

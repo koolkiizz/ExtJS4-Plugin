@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.koolkiizz.extjs4plugin.services
 
+import com.github.koolkiizz.extjs4plugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
